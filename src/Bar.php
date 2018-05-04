@@ -28,7 +28,14 @@ class Bar
     {
         return $this->number;
     }
-
+/**
+     * Get the number.
+     * @return float
+     */
+    public function getNumberNew()
+    {
+        return $this->number;
+    }
     /**
      * Get a Money object with the number negated.
      * @return Bar
