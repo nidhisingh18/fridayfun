@@ -32,7 +32,7 @@ class Bar
      * Get the number.
      * @return float
      */
-    public function getNumberNew()
+    public function getNumberNewNew()
     {
         return $this->number;
     }
